@@ -4,11 +4,13 @@
 [git 명령어 설명]
 git config --global user.name [이름]
 git config --global user.email [이메일]
-git add [파일 이름]
-git commit -m [메세지]
-git remote add origin [저장소주소]
+
+[파일 추가 / 수정 작업 ]
+
+git add .
+git commit -m "세번째 커밋"
 git push origin master
-git pull origin master
+
 
 집가고싶다
 
