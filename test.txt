@@ -1,2 +1,16 @@
 안녕하세요 황준일입니다.
 저는 26살이고 학교 근처에서 자취하고 있습니다.
+
+[git 명령어 설명]
+git config --global user.name [이름]
+git config --global user.email [이메일]
+git add [파일 이름]
+git commit -m [메세지]
+git remote add origin [저장소주소]
+git push origin master
+git pull origin master
+
+집가고싶다
+
+
+
